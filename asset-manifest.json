@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fireapp/static/css/main.767192d5.css",
+    "main.js": "/fireapp/static/js/main.f339fe45.js",
+    "static/media/Bancodedados.png": "/fireapp/static/media/Bancodedados.84b334f9c18a8b63c8ca.png",
+    "index.html": "/fireapp/index.html",
+    "main.767192d5.css.map": "/fireapp/static/css/main.767192d5.css.map",
+    "main.f339fe45.js.map": "/fireapp/static/js/main.f339fe45.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.767192d5.css",
+    "static/js/main.f339fe45.js"
+  ]
+}
